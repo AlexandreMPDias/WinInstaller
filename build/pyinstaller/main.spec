@@ -83,7 +83,7 @@ print('Main File: {}'.format(MAIN_FILE))
 print('Source Data Dir: {}'.format(data_dir))
 print('Destination Data Dir: {}'.format(dest_data_dir))
 print('Path to Env: {}'.format(env_path))
-print(Path to Project': {}'.format(project_path))
+print('Path to Project: {}'.format(project_path))
 print('Path to Icon: {}'.format(logo_icon))
 print('\n-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-\n')
 
